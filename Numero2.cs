@@ -1,8 +1,5 @@
 ﻿using System;
 
-/*Jorge Leonardo Trujillo Salas
-  TRUJ12059003
-  Numero 2*/
 class Numero2
 {
     static double produitRecursive(int n)
