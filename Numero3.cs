@@ -2,9 +2,6 @@
 using System.Collections;
 using System.Linq; //pour utiliser array.Max() et array.Min()
 using System.IO;
-/*Jorge Leonardo Trujillo Salas
-  TRUJ12059003
-  Numero 3*/
 class Nation : IComparable
 {
     private char groupe;
