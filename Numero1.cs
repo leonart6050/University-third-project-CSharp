@@ -1,8 +1,5 @@
 ﻿using System;
 using System.IO;
-/*Jorge Leonardo Trujillo Salas
-  TRUJ12059003
-  Numero 1*/
 class Nation : IComparable
 {
     private string nom, capital;
